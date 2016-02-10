@@ -1,0 +1,1 @@
+This library extends the Yahoo! User Interface Library with improved functionality and a Model View Controller interface for page interaction and AJAX communication.
